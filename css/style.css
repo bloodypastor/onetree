@@ -223,3 +223,17 @@ body {
 	background-size: cover;
 	color: white;
 }
+
+/*SECTION CARDS*/
+#section-cards {
+	padding: 5rem 0;
+}
+.card {
+	margin-top: 3rem;
+}
+.card a {
+	color: rgba(19, 128, 36, 0.82);
+}
+.card a:hover {
+	color: rgb(19, 128, 36);
+}
